@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Anshul Arnav (@inevitablebot)
 
-Welcome to my GitHub profile! I'm a cybersecurity enthusiast, ethical hacker, and BCA student driven by a passion for offensive security and reverse engineering. I build tools, break challenges, and constantly push the boundaries of what I can learn and create.
+Welcome to my GitHub profile! I'm a cybersecurity enthusiast, ethical hacker,  driven by a passion for offensive security and reverse engineering. I build tools, break challenges, and constantly push the boundaries of what I can learn and create.
 
 ---
 
